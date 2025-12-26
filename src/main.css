@@ -1,0 +1,18 @@
+@import "tailwindcss";
+/* @import "./fonts.css"; */
+
+/*################*/
+/*## TYPOGRAPHY ##*/
+/*################*/
+@theme {
+    --text-attribution: 11px;
+}
+
+/*############*/
+/*## COLORS ##*/
+/*############*/
+@theme {
+    /* --color-fem-purple-50: hsl(260, 100%, 95%); */
+}
+
+
