@@ -2,5 +2,16 @@
 /* @import "./fonts.css"; */
 
 @theme {
-  --breakpoint-fem-desktop: 375px;
+    /* Breakpoint */
+    --breakpoint-fem-desktop: 375px;
+
+    /* Colors */
+    --color-navy-850: hsl(217, 28%, 15%); /* intro and email sign up background */
+    --color-navy-900: hsl(218, 28%, 13%); /* main background */
+    --color-navy-950: hsl(216, 53%, 9%); /* footer background */
+    --color-navy-800: hsl(219, 30%, 18%); /* testimonials background */
+    --color-teal-200: hsl(176, 68%, 64%); /* inside call-to-action gradient */
+    --color-cyan-500: hsl(198, 60%, 50%); /* inside call-to-action gradient */
+    --color-red-500: hsl(0, 100%, 63%); /* error */
+    --color-white: hsl(0, 0%, 100%);
 }
